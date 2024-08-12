@@ -6,3 +6,6 @@
 ###### This H6 Header
 
 Display all markdown header sizes
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
