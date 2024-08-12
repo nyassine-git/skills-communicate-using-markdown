@@ -20,3 +20,6 @@ var myVar = "Hello, world!";
 String hello = "Hello, .NET!";
 DateTime now = DateTime.Now;
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
